@@ -1,17 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Jitendra Kumar Yadav
 
-## 🤵 I'm Jitendra Kumar Yadav
-
-### 🌟 Summary
-#### B.Tech CSE & AI, IET Lucknow (2023-27)
-
-I'm Jitendra Kumar, a Full-Stack Developer with a keen interest in AI and a strong foundation in both front-end and back-end technologies. I enjoy building applications and solving complex problems using modern technologies.
-
-- **Front-end:** HTML, CSS, JavaScript, React.js
-- **Back-end:** Django REST API, MySQL, DBMS
-- **Additional Skills:** Python (Pandas, Matplotlib, NumPy, PyGame), Azure Cloud Computing, Generative AI, Figma, SEO
-
----
 <h2 align="center">⚡ Current Stats ⚡</h2>
 
 <div align=center>
