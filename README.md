@@ -41,49 +41,6 @@ I'm Jitendra Kumar, a Full-Stack Developer with a keen interest in AI and a stro
 
 ---
 
-### 📚 Education
-
-- **B.Tech in Computer Science Engineering (Specialization in AI)**  
-  **Institute of Engineering & Technology, Lucknow** (2023-2027)
-- **Intermediate (PCM + CS)**  
-  **Kendriya Vidyalaya** (2011-2022)
-
----
-
-### 💼 Experience
-
-#### **Smartbridge**
-- **Role:** Intern
-- **Duration:** July 2024 - Present (2 months)
-- **Location:** Lucknow, Uttar Pradesh, India
-
----
-
-### 🏆 Certifications
-
-- **Google Skill Badge:** Prompt Design in Vertex AI
-- **HackerRank Certified:** CSS, SQL, Python Developer, Frontend Developer (React)
-- **DBMS:** HackerRank Certified
-
----
-
-### 🌱 Currently Learning
-
-- Advanced Data Structures and Algorithms
-- Machine Learning with Python
-
----
-
-### 💼 Projects
-
-#### **Portfolio Website**
-- **Description:** A responsive portfolio website showcasing my work, skills, and projects.
-- **Technologies Used:** HTML, CSS, JavaScript
-- **Live Demo:** [www.jitendra.me](https://www.jitendra.me)
-
-
----
-
 ### 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/jitendra-ky)
