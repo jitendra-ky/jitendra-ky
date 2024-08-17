@@ -5,6 +5,16 @@
 
 I am a dedicated Computer Science Engineering student specializing in Artificial Intelligence at IET Lucknow. I have a passion for Full-Stack Development, particularly with React.js and Django, and I am continually learning and expanding my skill set in the tech industry.
 
+<h2 align="center">⚡ Current Stats ⚡</h2>
+
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=zsquare12&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=zsquare12&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsquare12&count_private=true&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+
+
 ---
 
 ### 🌟 Summary
@@ -71,15 +81,6 @@ I'm Jitendra Kumar, a Full-Stack Developer with a keen interest in AI and a stro
 - **Technologies Used:** HTML, CSS, JavaScript
 - **Live Demo:** [www.jitendra.me](https://www.jitendra.me)
 
-
-
-<h2 align="center">⚡ Current Stats ⚡</h2>
-
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=zsquare12&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=zsquare12&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsquare12&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
 ---
 
