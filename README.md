@@ -1,4 +1,8 @@
 ### Hi there 👋 I'm Jitendra Kumar Yadav
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/zsquare12/count.svg" />
+</p>
 
 <h2 align="center">⚡ Current Stats ⚡</h2>
 
