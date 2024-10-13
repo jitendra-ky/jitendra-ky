@@ -16,15 +16,40 @@
 ### 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat&logo=matplotlib)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
+
+#### Web Scraping | Automation | DevOps | cloud
+![Selenium](https://img.shields.io/badge/-Selenium-333?style=flat&logo=selenium)
+![BeautifulSoup](https://img.shields.io/badge/-Beautiful%20Soup-333?style=flat&logo=beautiful-soup)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333?style=flat&logo=github-actions)
+![GitHub Codespaces](https://img.shields.io/badge/-GitHub%20Codespaces-333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 ![Azure](https://img.shields.io/badge/-Azure-333?style=flat&logo=microsoft-azure)
-![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
+
+
+
+#### Version Control & Open Source
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 
+#### full-stack Web-Development
+![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=vue.js)
+![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
+![Django REST API](https://img.shields.io/badge/-Django%20REST%20API-333?style=flat&logo=django)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+
+#### Additional Tools & Languages
+![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
+![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
 ---
 
 ### 🌐 Socials
