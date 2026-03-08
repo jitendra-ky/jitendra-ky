@@ -7,10 +7,7 @@
 
 ### Technologies I Work With
 
-**Programming Languages**
-- Python
-- C/C++
-- JavaScript
+**Programming Languages:** Python, C/C++, JavaScript
 
 **Data Structure and Algorithm**
 - Solved 500+ DSA problem across different coding plateforms.
